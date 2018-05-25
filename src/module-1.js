@@ -1,4 +1,5 @@
+import './styles/module-1.scss';
 
 export function doSomething() {
-  console.log('doSomething:', 2**3);
+  console.log('doSomething:', 2**32);
 }
