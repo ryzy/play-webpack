@@ -1,7 +1,6 @@
-import { doSomething } from './module-1';
-import { doSthAmazingWithjQuery } from './module-2-jquery';
+import { doSomething } from './1-module';
+import '2-markdown';
 
 import './styles/app.scss';
 
 doSomething();
-doSthAmazingWithjQuery();
