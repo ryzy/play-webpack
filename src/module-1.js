@@ -1,3 +1,3 @@
 export function doSomething() {
-  console.log('doSomething:', 2**3);
+  console.log('doSomething:', 2**32);
 }
